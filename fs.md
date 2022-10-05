@@ -5,7 +5,6 @@ Este módulo nos permite interactuar con el sistema de archivos.
 import { fs } from 'node:fs';
 ```
 
-
 ## Métodos
 
 
