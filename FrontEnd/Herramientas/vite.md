@@ -16,8 +16,13 @@ Vite pronunciado "Veet" es una herramienta para proyectos web, que te permite de
 ## Comandos de uso
 
 > npm run dev
+
 Iniciar web-server
+
 > npm run build
+
 Preparamos el proyecto para producción
+
 > npm run preview
+
 Una previsualización local de producción
