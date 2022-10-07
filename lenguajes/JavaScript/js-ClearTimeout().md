@@ -13,7 +13,7 @@ Caso práctico:
 document.querySelector("input[type=button]").addEventListener('click', () =>{
     window.clearTimeout(contador);
 });
-``
+```
 
 ### Relacionados
 
