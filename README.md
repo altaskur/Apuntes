@@ -7,7 +7,7 @@ iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
 
 Apartados:
 
-* [[JavaScript]]
+* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/JavaScript.md)
 * [[Node-js]]
 * [[Rust]]
 * [[Git]]
