@@ -32,7 +32,7 @@ El estilo de los días `"dateStyle"` y las horas  `"timeStyle"` se clasifican en
 * "short"
 * "weekday"
 
-# Opciones
+## Opciones
 
 * era
 

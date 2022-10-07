@@ -45,11 +45,11 @@ let year = today.getFullYear();
 console.log(day); // 2022
 ``
 
-### .[[js-toLocaleDateString()]]
+### .[js-toLocaleDateString()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ToLocaleDateString().md)
 
-Nos devuelve un [[String]] al idioma y la forma especificada, ver [[toLocaleDateString()]
+Nos devuelve un [[String]] al idioma y la forma especificada, ver [toLocaleDateString()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ToLocaleDateString().md)
 
 ## Relacionados
 
-* [[js-toLocaleDateString()]]
-* [[js-String]]
+* [js-toLocaleDateString()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ToLocaleDateString().md)
+* [js-String]

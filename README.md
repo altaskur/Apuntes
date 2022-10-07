@@ -7,10 +7,10 @@ iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
 
 Apartados:
 
-* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/readme.md)
-* [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/readme.md)
-* [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/readme.md)
-* [Git](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git/readme.md)
+* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/)
+* [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/)
+* [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/)
+* [Git](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git/)
 
 Apuntes de libros:
 

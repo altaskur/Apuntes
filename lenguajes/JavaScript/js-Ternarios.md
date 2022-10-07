@@ -1,8 +1,8 @@
 # Definición
 
-Se considera un atajo del operador condicional [[If]].
+Se considera un atajo del operador condicional [If].
 
-Por lo tanto si la condición se resuelve con el [[boleano]] True, el resultado pasará a ser la primera expresión por lo contrario si es False pasará a ser la segunda expresión.
+Por lo tanto si la condición se resuelve con el [boleano] True, el resultado pasará a ser la primera expresión por lo contrario si es False pasará a ser la segunda expresión.
 
 ## [ Notas ]
 
@@ -15,7 +15,7 @@ los ternarios tienen implícitos el return
 
 condición ? primera expresión : segunda expresión ;
 
-### Ejemplos:
+### Ejemplos
 
 ``
 let numero = 5;
@@ -43,6 +43,6 @@ Return implícito
 
 ### Relacionados
 
-* [[js-Funcion-flecha]]
-* [[If]]
-* [[js-Boleanos]]
+* [js-Funcion-flecha](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-Funcion-flecha().md)
+* [If]
+* [js-Boleanos]

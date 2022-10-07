@@ -4,7 +4,7 @@ Una función flecha es una forma compacta de crear una función
 Tiene dos inconvenientes principales:
 
 * no se puede usar this
-* no se puede usar un constructor [[POO]]
+* no se puede usar un constructor [POO]
 
 @# Ejemplo:
 
@@ -25,5 +25,5 @@ function altasFuncion(){
 
 ## Relacionados
 
-* [[js-clearTimeout()]]
-* [[POO]]
+* [js-clearTimeout()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ClearTimeout().md)
+* [POO]

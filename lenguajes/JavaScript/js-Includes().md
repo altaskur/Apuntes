@@ -19,6 +19,6 @@ Devuelve como resultado un booleano.
 
 ### Relacionados
 
-* [[js-Ternarios]]
-* [[js-Boleanos]]
-* [[js-Arrays]]
+* [js-Ternarios](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-Ternarios.md)
+* [js-Boleanos]
+* [js-Arrays](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-Arrays.md)

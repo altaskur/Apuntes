@@ -44,6 +44,6 @@ console.log(lista) // huevos, pan
 
 #### Relacionados
 
-* [[Objetos]]
-* [[If]]
-* [[Boleanos]]
+* [Objetos]
+* [If]
+* [Boleanos]

@@ -76,10 +76,6 @@ Este método elimina las escuchas (eventListener) de cada eventTarget, una vez l
 * MouseOut
   * Cuando el puntero sale del elemento.
 
-#### Atributos
-
-> screenX, screenY, clientX, clientY, altKey, ctrlKey, shiftKey, metaKey
-
 ### De teclado
 
 ### De HTML
