@@ -10,7 +10,7 @@ Apartados:
 * [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/)
 * [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/)
 * [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/)
-* [Git](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git/)
+* [Git](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git.md)
 
 Apuntes de libros:
 
