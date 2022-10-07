@@ -1,6 +1,17 @@
-# 📚 Apuntes
+# 📚 Altaskur Wiki
 
-Un espacio para volcar notas y apuntes de los lenjuages y proyectos en curso.
+¡Bienvenida/o a la Wiki de [@Altaskur](https://github.com/altaskur)!
+¿Te quedaste con ganas de entender algo que se te escapó durante algún directo?
 
-***
-[Link la Wiki](https://github.com/altaskur/Apuntes/wiki)
+iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
+
+Apartados:
+
+* [[JavaScript]]
+* [[Node-js]]
+* [[Rust]]
+* [[Git]]
+
+Apuntes de libros:
+
+* [[cleanCode]]

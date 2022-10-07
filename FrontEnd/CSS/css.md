@@ -1,6 +1,6 @@
 # Consejos sobre
 
-ux --> aplica funcionavilidad
+ux --> aplica funcionalidad
 
 ui --> aplica estilo visual
 
