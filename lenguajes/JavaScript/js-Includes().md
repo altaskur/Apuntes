@@ -9,13 +9,13 @@ Devuelve como resultado un booleano.
 
 ## Ejemplo
 
-``
+```JavaScript
     let desayuno = ['café','tostada','fruta'];
 
     let hayCafe = desayuno.includes('cafe');
 
     hayCafe == true ? console.log("Hay café") ? console.log("Compra Café");
-``
+```
 
 ### Relacionados
 

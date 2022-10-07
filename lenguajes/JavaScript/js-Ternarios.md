@@ -17,7 +17,7 @@ condición ? primera expresión : segunda expresión ;
 
 ### Ejemplos
 
-``
+```JavaScript
 let numero = 5;
 let ternario = numero > 0 ? "es mayor que 0" : "es menor que 0";
 console.log(ternario); // es mayor que 0
@@ -39,7 +39,7 @@ Return implícito
 
     flags < 0 ? (flags = 0, false ) : null;
 
-``
+```
 
 ### Relacionados
 

@@ -95,7 +95,7 @@ El estilo de los días `"dateStyle"` y las horas  `"timeStyle"` se clasifican en
 
 ## Ejemplos
 
-``
+```JavaScript
 let date = new date();
 let options =
 {
@@ -116,3 +116,4 @@ console.log(date.toLocaleDateString('de-DE', options));
 console.log(date.toLocaleDateString('es-ES', options));
 
 //  domingo, 5 de junio de 2022, 17:12 tiempo universal coordinado
+```

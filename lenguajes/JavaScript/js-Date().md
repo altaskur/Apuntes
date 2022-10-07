@@ -12,38 +12,38 @@ Trabaja en milisegundos.
 
 Nos devuelve la fecha, en forma de objeto en formato de hora local, es decir la hora del cliente incluida su zona horaria.
 
-``
+```JavaScript
 let today = new Date(  );
-``
+```
 
 3## .getDate()
 Nos devuelve el día del mes del objeto Date() en formato 1 - 31.
 
-``
+```JavaScript
 let day = today.getDate();
 
 console.log(day); //  3
-``
+```
 
 ### .getMonth()
 
 Nos devuelve el mes del objeto Date() en formato 0-11.
 
-``
+```JavaScript
 let month = today.getMonth();
 
 console.log(month); // 8
-``
+```
 
 ### .getFullYear()
 
 Nos devuelve el año del objeto Date() en formato 1000 y 9999.
 
-``
+```JavaScript
 let year = today.getFullYear();
 
 console.log(day); // 2022
-``
+```
 
 ### .[js-toLocaleDateString()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ToLocaleDateString().md)
 

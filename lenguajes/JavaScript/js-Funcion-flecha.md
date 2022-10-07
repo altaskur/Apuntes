@@ -8,7 +8,7 @@ Tiene dos inconvenientes principales:
 
 @# Ejemplo:
 
-``
+```JavaScript
 Primera forma:
 let altasVariable = ( ) => {
 }
@@ -21,7 +21,7 @@ Función tradicional:
 function altasFuncion(){
 }
 
-``
+```
 
 ## Relacionados
 

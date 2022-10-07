@@ -5,7 +5,7 @@ Para ello debemos llamar a la identificación asociada a la función.
 
 ## Ejemplo
 
-``
+```JavaScript
 setInterval(contador());
 
 Caso práctico:
