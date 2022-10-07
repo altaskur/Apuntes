@@ -5,7 +5,7 @@
 * [js-SetInterval()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-SetInterval().md)
 * [js-clearTimeout()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ClearTimeout().md)
 * [js-toLocaleDateString()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-ToLocaleDateString().md)
-* [js-includes()]
+* [js-includes()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-Includes().md)
 
 ## Objetos
 
