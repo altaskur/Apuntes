@@ -9,14 +9,14 @@ Apartados:
 
 ## Lenguajes
 
-* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/readme.md)
-* [TypeScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/TypeScript/readme.md)
-* [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/readme.md)
-* [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/readme.md)
+* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/README.md)
+* [TypeScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/TypeScript/README.md)
+* [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/README.md)
+* [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/README.md)
 
 ## FrontEnd
 
-[CSS](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/CSS/readme.md)
+[CSS](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/CSS/README.md)
 
 * Herramientas
 
