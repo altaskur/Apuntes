@@ -152,7 +152,10 @@ Para indicarle a Git que vamos a añadir una fuente remota mediante este método
 simplemente copiamos el enlace que aparece en el apartado "code" del repositorio.
 
 Ejemplo:
-> git@github.com:altaskur/Buscaminas.git
 
-git remote add "name" "identity"
-> git remote add "origin" "git@github.com:altaskur/Buscaminas.git"
+```Git
+git@github.com:altaskur/Buscaminas.git
+
+// git remote add "name" "identity"
+git remote add "origin" "git@github.com:altaskur/Buscaminas.git"
+```
