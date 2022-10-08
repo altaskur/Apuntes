@@ -156,6 +156,7 @@ Ejemplo:
 ```Git
 git@github.com:altaskur/Buscaminas.git
 
-// git remote add "name" "identity"
+git remote add "name" "identity"
+
 git remote add "origin" "git@github.com:altaskur/Buscaminas.git"
 ```

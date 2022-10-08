@@ -5,6 +5,8 @@
 
 iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
 
+La idea de este repositorio no es crear una guia completa, sino añadir pequeñas consultas que mas suelo realizar.
+
 Apartados:
 
 ## Lenguajes
