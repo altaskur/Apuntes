@@ -16,10 +16,11 @@ Apartados:
 
 ## FrontEnd
 
-    [CSS](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/CSS/readme.md)
+[CSS](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/CSS/readme.md)
 
-    * Herramientas
-    [Vite](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/Herramientas/vite.md)
+* Herramientas
+
+[Vite](https://github.com/altaskur/Apuntes/blob/main/FrontEnd/Herramientas/vite.md)
 
 ## Herramientas
 
