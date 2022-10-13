@@ -1,6 +1,6 @@
-# Descripción 
+# Descripción
 
-Es un software de control de versiones, que nos permite gestionar y publicar nuestros 
+Es un software de control de versiones, que nos permite gestionar y publicar nuestros
 proyectos, así como la creación de puntos de control durante el desarrollo de los mismos.
 
 ## Comandos que más uso
@@ -144,7 +144,10 @@ publica - privada.
 Para ello generamos el par de claves con el siguiente comando:
 
 Windows:
-> ssh-keygen -b 4096 -C "email" -t rsa
+
+```bash
+ ssh-keygen -b 4096 -C "email" -t rsa
+```
 
 Después en Github, en el sub-apartado SSH y GPG Keys de Opciones, introducimos la clave pública.
 

@@ -1,6 +1,6 @@
 # Definición
 
-El método toLocaleDateString() nos devuelve un string del objeto [[Date()]], formateado al idioma y forma especificada.
+El método toLocaleDateString() nos devuelve un string del objeto [js-Date()](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/js-Date().md), formateado al idioma y forma especificada.
 
 [Más detalles](https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-date.prototype.tolocaledatestring) * Enlace externo a Ecma International
 
