@@ -89,4 +89,4 @@ function delay(ms: number) {
 
 ## ✨ Agradecimientos
 
-TDarom, PiterMcFlebor y [@LuisLLamas_es](https://github.com/luisllamasbinaburo) por echarme una mano a entender todo esto.
+TDarom, [@PiterMcFlebor](https://github.com/pitermcflebor) y [@LuisLLamas_es](https://github.com/luisllamasbinaburo) por echarme una mano a entender todo esto.

@@ -1,6 +1,6 @@
 # Definición
 
-Es un entrono de ejecución de JavaScript, construido con el motor V8, un proyecto opensource desarrollado por Google y escrito en C++ e implementa [ECMAScript]  y [WebAssembly].
+Es un entrono de ejecución de JavaScript, construido con el motor V8, un proyecto OpenSource desarrollado por Google y escrito en C++ e implementa [ECMAScript]  y [WebAssembly].
 
 ## Módulos
 
