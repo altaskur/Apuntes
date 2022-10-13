@@ -40,7 +40,7 @@ Formas:
     module.exports.state = state;
     ```
 
-* AMD
+2. AMD
 
     la forma adaptada a partir de ECMAScript ES2015, común en
     JavaScript y TypeScript

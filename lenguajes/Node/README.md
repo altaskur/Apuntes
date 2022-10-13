@@ -40,7 +40,6 @@ podemos cambiarlo desde el package.json introduciendo la sentencia `"type": "mod
 parte alta del JSON.
 
 ```json
-
   "name": "Apuntes",
   "version": "0.1.0",
   "description": "example module",
