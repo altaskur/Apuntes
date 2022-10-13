@@ -77,7 +77,7 @@ El callback de las promesas se le pasan dos parámetros , resolve y reject, los 
 new Promise ((resolve, reject) => {}).then((){});
 ```
 
-## Bonus
+### Bonus
 
 Una función delay() como en c# [@LuisLLamas_es](https://github.com/luisllamasbinaburo)
 
@@ -86,6 +86,33 @@ function delay(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 ```
+
+## Módulos
+
+Nos permite gestionar el proyecto en ficheros independientes (Módulos)
+
+Formas:
+
+1. CommonJS
+
+    La forma que usa node-js
+
+    ```js
+    const state = require('./state.cjs');
+    module.exports.state = state;
+    ```
+
+2. AMD
+
+    la forma adaptada a partir de ECMAScript ES2015, común en
+    JavaScript y TypeScript
+
+    ```js
+    import { magicNumber } from "./constants.js";
+    export const magicNumber = 42;
+    ```
+
+---
 
 ## ✨ Agradecimientos
 
