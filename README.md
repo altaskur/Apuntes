@@ -11,10 +11,10 @@ Apartados:
 
 ## Lenguajes
 
-* [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/README.md)
-* [TypeScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/TypeScript/README.md)
-* [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/README.md)
-* [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/README.md)
+* [JavaScript](https://github.com/altaskur/Apuntes/lenguajes/JavaScript/README.md)
+* [TypeScript](https://github.com/altaskur/Apuntes/lenguajes/TypeScript/README.md)
+* [Node-js](https://github.com/altaskur/Apuntes/lenguajes/Node/README.md)
+* [Rust](https://github.com/altaskur/Apuntes/lenguajes/Rust/README.md)
 
 ## FrontEnd
 
