@@ -79,7 +79,7 @@ new Promise ((resolve, reject) => {}).then((){});
 
 ## Bonus
 
-Una función delay() como en c# @luisllamasbinaburo
+Una función delay() como en c# [@LuisLLamas_es](https://github.com/luisllamasbinaburo)
 
 ```Ts
 function delay(ms: number) {
@@ -89,4 +89,4 @@ function delay(ms: number) {
 
 ## ✨ Agradecimientos
 
-TDarom, PiterMcFlebor y @luisllamasbinaburo por echarme una mano a entender todo esto.
+TDarom, PiterMcFlebor y [@LuisLLamas_es](https://github.com/luisllamasbinaburo) por echarme una mano a entender todo esto.
