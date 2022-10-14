@@ -33,6 +33,18 @@ Formas:
     export const magicNumber = 42;
     ```
 
+    * Problemas al pasar a la forma AMD
+
+      1. "No existe __dirname"
+
+         Para recuperar esta variable tenemos que recuperar desde `fileURLToPath`.
+
+         ```js
+         import path from "path";
+         import { fileURLToPath } from "url";
+         const __dirname = fileURLToPath(import.meta.url);
+         ```
+
 ### Configuración
 
 Cómo he indicado más adelante la forma predeterminada de node es la Common-js pero

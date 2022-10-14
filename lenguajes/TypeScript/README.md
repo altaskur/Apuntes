@@ -1,5 +1,12 @@
 # TypeScript
 
+## Iniciar proyecto
+
+```bash
+npm install -g ts-node typescript '@types/node'
+tsc init
+```
+
 ## Tipos de datos
 
 * string
