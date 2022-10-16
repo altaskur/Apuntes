@@ -12,7 +12,7 @@ Apartados:
 ## Lenguajes
 
 * [JavaScript](https://github.com/altaskur/Apuntes/blob/main/lenguajes/JavaScript/README.md)
-* [TypeScript](https://github.com/altaskur/Apuntes/lenguajes/TypeScript/)
+* [TypeScript](https://altaskur.github.io/Apuntes/lenguajes/TypeScript/)
 * [Node-js](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Node/README.md)
 * [Rust](https://github.com/altaskur/Apuntes/blob/main/lenguajes/Rust/README.md)
 
