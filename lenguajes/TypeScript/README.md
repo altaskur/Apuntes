@@ -2,10 +2,23 @@
 
 ## Iniciar proyecto
 
+Para poder trabajar en un proyecto con TypeScript debemos instalar el módulo e
+iniciarlo, esto nos creará un archivo tsconfig.json dónde podremos modificar su comportamiento.
+
 ```bash
 npm install -g ts-node typescript '@types/node'
 tsc init
 ```
+
+### Comandos útiles
+
+```bash
+tsc -w
+tsc
+```
+
+El comando de ``tsc -w`` nos permite establecer el modo escucha.
+El comando ``tsc`` transpile el código a JavaScript.
 
 ## Tipos de datos
 
@@ -118,6 +131,23 @@ Formas:
     import { magicNumber } from "./constants.js";
     export const magicNumber = 42;
     ```
+
+## Trabajando junto a Node-js
+
+Para poder trabajar junto a Node-js hay que realizar un par de ajustes en la configuración de typescript en el tsconfig.json
+de momento he conseguido esta configuración para poder trabajar sin muchos problemas.
+
+### tsconfig.json nodejs
+
+Configuración del archivo tsconfig.json para trabajar con node-js que modifico de mi configuración normal.
+
+```json
+"target": "ES2015",
+"module": "commonjs",
+"rootDirs":["stc"],
+"outDir": "./build",
+"esModuleInterop":true,
+```
 
 ---
 
