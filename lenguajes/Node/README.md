@@ -59,3 +59,28 @@ parte alta del JSON.
 
   "type": "module",
 ```
+
+### Instalación de paquetes
+
+Existen varias formas de instalar los paquetes en tu proyecto.
+
+* Predeterminada
+  * Instala la librería y pasaría a producción.
+
+    ```bash
+      npm install <package_name>
+    ```
+
+* Desarrollo
+  * Instala la librería sólo en desarrollo (no pasa a producción).
+
+  ```bash
+    npm install -D <package_name>
+  ```
+
+* Global
+  * Instala el paquete de forma que es accesible a toda la máquina (local), se recomienda llamarlas con npx.
+
+  ```bash
+    npm install -g <package_name>
+  ```
