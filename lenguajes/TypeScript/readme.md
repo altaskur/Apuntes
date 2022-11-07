@@ -149,6 +149,19 @@ Configuración del archivo tsconfig.json para trabajar con node-js que modifico 
 "esModuleInterop":true,
 ```
 
+## Trabajando con librerías
+
+Para trabajar junto a librerías echas en JavaScript debemos de tiparlas, para ello instalaremos el paquete de npm `@types/tu_librería`.
+
+Ejemplos:
+
+* TMI.JS
+  * npm i @types/tmi.js
+* Express
+  * npm i @types/express
+* Socket-io
+  * npm i @types/socket.io
+
 ---
 
 ## ✨ Agradecimientos
