@@ -74,13 +74,13 @@ Existen varias formas de instalar los paquetes en tu proyecto.
 * Desarrollo
   * Instala la librería sólo en desarrollo (no pasa a producción).
 
-  ```bash
-    npm install -D <package_name>
-  ```
+    ```bash
+      npm install -D <package_name>
+    ```
 
 * Global
   * Instala el paquete de forma que es accesible a toda la máquina (local), se recomienda llamarlas con npx.
 
-  ```bash
-    npm install -g <package_name>
-  ```
+    ```bash
+      npm install -g <package_name>
+    ```
