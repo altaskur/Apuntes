@@ -2,7 +2,7 @@
 
 Es una herramienta que te permite mantener tu código limpio y sin errores.
 
-@Gitlazo: Normalmente el linter se pasa obligatoriamente en los procesos de CI/CD, para que no suba código "no linteado"
+@Girlazo: Normalmente el linter se pasa obligatoriamente en los procesos de CI/CD, para que no suba código "no linteado"
 
 ## estilos recomendados
 
@@ -19,7 +19,7 @@ Es una herramienta que te permite mantener tu código limpio y sin errores.
 npm install eslint --save-dev
 ```
 
-## Incio del proyecto
+## Inicio del proyecto
 
 ```bash
 npx eslint --init
