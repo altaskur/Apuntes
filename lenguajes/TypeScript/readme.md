@@ -5,10 +5,21 @@
 Para poder trabajar en un proyecto con TypeScript debemos instalar el módulo e
 iniciarlo, esto nos creará un archivo tsconfig.json dónde podremos modificar su comportamiento.
 
-```bash
-npm install -g ts-node typescript '@types/node'
-tsc init
-```
+* Instalación
+
+  ```bash
+
+  npm install -g ts-node typescript '@types/node'
+
+  npm i typescript --save-dev
+
+  ```
+
+* Creación del proyecto
+
+  ```bash
+  npx tsc --init
+  ```
 
 ### Comandos útiles
 
