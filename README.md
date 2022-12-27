@@ -28,9 +28,14 @@ Apartados:
 
 [socket-io](https://github.com/altaskur/Apuntes/blob/main/Backend/socket-io.md)
 
+## Desktop App
+
+[Electron](https://github.com/altaskur/Apuntes/blob/main/desktopApp/electron.md)
+
 ## Herramientas
 
 * [Git](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git.md)
+* [Eslint](https://github.com/altaskur/Apuntes/blob/main/Herramientas/Git.md)
 
 ## Apuntes de libros
 
