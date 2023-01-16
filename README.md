@@ -3,7 +3,7 @@
 ¡Bienvenida/o a la Wiki de [@Altaskur](https://github.com/altaskur)!
 ¿Te quedaste con ganas de entender algo que se te escapó durante algún directo?
 
-iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
+Iré creando apuntes y teoría surgida en los proyectos que vaya realizando.
 
 La idea de este repositorio no es crear una guia completa, sino añadir pequeñas consultas que mas suelo realizar.
 
