@@ -20,6 +20,28 @@ Nos permite ver los logs de nuestro servidor, tanto de peticiones como de otros 
 
 #### BodyParser
 
+Nos permite interpretar el req.body
+
 #### Session
 
+Nos permite almacenar sesiones en el lado del servidor.
+
 #### CookieParser
+
+nos permite crear y usar cookies
+
+## Ejemplo de CRUD
+
+## Rutas
+
+## Plantillas
+
+## Consultas
+
+### GET
+
+### POST
+
+### UPDATE
+
+### DELETE
