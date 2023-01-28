@@ -91,10 +91,44 @@ Las plantillas se utilizan para generar contenido dinámico en una página web
 
 ## Consultas
 
-### GET
-
 ### POST
+
+```js
+//Ejemplo: POST http://localhost:8080/item
+app.post('/item', function(req, res) {
+   var data = req.body.data;
+   res.send('Add ' + data);
+   console.log('Add ' + data);
+});
+```
 
 ### UPDATE
 
+```Js
+//Update
+//Ejemplo: PATCH http://localhost:8080/item/10
+app.patch('/item/:id', function(req, res) {
+   var itemId = req.params.id;
+   var data = req.body.data;
+   res.send('Update ' + itemId + ' with ' + data);
+   console.log('Update ' + itemId + ' with ' + data);
+});
+```
+
 ### DELETE
+
+```js
+//Delete
+//Ejemplo: DEL http://localhost:8080/item
+app.delete('/item/:id', function(req, res) {
+   var itemId = req.params.id;
+   res.send('Delete ' + itemId);
+   console.log('Delete ' + itemId);
+});
+```
+
+#### Agradecimientos
+
+* [luisllamas.es](https://www.luisllamas.es/montar-un-api-rest-con-nodejs-y-express/)
+
+* Seguidres: Gringobsts
